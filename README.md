@@ -22,4 +22,5 @@ Hit URL: http://localhost:8080/polymeetup/
 
 Welcome page will appear !
 
+Portal has option to create user / login  / create meetup / RSVP meetup / Report Generation 
 
