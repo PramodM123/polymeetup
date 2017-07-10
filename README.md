@@ -20,6 +20,8 @@ After changing deploy it on the Server (Tomcat)
 
 Hit URL: http://localhost:8080/polymeetup/ 
 
+![homepage](https://user-images.githubusercontent.com/17592919/28003032-098c4d6c-64ef-11e7-9716-47c863ad1f4e.jpg)
+
 Welcome page will appear !
 
 Portal has option to create user / login  / create meetup / RSVP meetup / Report Generation 
